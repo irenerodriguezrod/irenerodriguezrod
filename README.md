@@ -10,6 +10,10 @@
 </div>
 
 <div>
+  ![Contador de visitas](https://komarev.com/ghpvc/?username=irenerodriguezrod&color=blue)
+</div>
+
+<div>
   <h2>Sobre mí</h2> 
   <nav>
     <ul>
