@@ -9,9 +9,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 </div>
 
-<div>
-  ![Contador de visitas](https://komarev.com/ghpvc/?username=irenerodriguezrod&color=blue)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=irenerodriguezrod&color=blue" />
 </div>
+
 
 <div>
   <h2>Sobre mí</h2> 
