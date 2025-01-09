@@ -18,7 +18,8 @@
   <h2>Sobre mí</h2> 
   <nav>
     <ul>
-      <li>💻 Estudiante del CFGS Desarrollo de Aplicaciones Web</li>
+      <li>💁🏻‍♀️ Me llamo Irene Rodríguez
+      <li>💻 Estudiante del CFGS Desarrollo de Aplicaciones Web en la provincia de Zamora</li>
       <li>📃 Aquí están los proyectos que he ido desarrollando a lo largo del curso</li>
     </ul>
   </nav>
@@ -27,5 +28,5 @@
 <br>
 
 <div align="right">
-  <p>Última edición:<i>08/01/2025</i></p>
+  <p>Última edición:<i> 09/01/2025</i></p>
 </div>
