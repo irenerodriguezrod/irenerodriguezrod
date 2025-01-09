@@ -1,5 +1,6 @@
 <div align="center">
   <h1>
+    <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY0MjY3NDAsIm5iZiI6MTczNjQyNjQ0MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTA5VDEyNDA0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIzYTgxNmE0NjdmZGRiZTRkYWNkYWM1MGNjMDI0ZDViNWU3YTZmYTM4N2YzYTZjMWMzNTU5ZmI2ZDQ4MGFjYzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2Oo5ZEdUGZm87zFchHrsHY2k3NAAtTYEoW1evgiLQZM" alt="GIF animado de bienvenida Pikachu" width="50">
     Hola, bienvenido a mi perfil 
     <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GIF animado de bienvenida" width="50">
   </h1>
