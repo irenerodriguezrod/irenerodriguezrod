@@ -16,7 +16,10 @@
 
 
 <div>
-  <h2>Sobre mí</h2> 
+  <h2>
+    <img src="https://media.tenor.com/Xe5FdTf3vq8AAAAi/pikachu-pokemon.gif" alt="GIF Pikachu Feliz" width="50">
+    Sobre mí
+  </h2> 
   <nav>
     <ul>
       <li>💁🏻‍♀️ Me llamo Irene Rodríguez
@@ -32,6 +35,23 @@
 </div>
 <br>
 
+<div>
+  <h2>
+    <img src="https://media.tenor.com/GQK3vfvrkbEAAAAi/pikachu.gif" alt="GIF Pikachu bailando" width="90">
+    Proyectos
+  </h2>
+</div>
+
+<br>
+
+<div>
+  <h2>
+  <img src="https://tenor.com/es/view/pikachu-gif-19926609" width="1000">  
+  Gracias por leer
+  </h2>
+</div>
+
+<br>
 <div align="right">
   <p>Última edición:<i> 09/01/2025</i></p>
 </div>
