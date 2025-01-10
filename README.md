@@ -40,8 +40,8 @@
     <img src="https://media.tenor.com/GQK3vfvrkbEAAAAi/pikachu.gif" alt="GIF Pikachu bailando" width="90">
     Estadísticas
   </h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenerodriguezrod&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="irenerodriguezrod's GitHub Stats" width="510" />
-  <img src="https://github-readme-stats.vercel.app/api?username=irenerodriguezrod&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="irenerodriguezrod's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenerodriguezrod&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="irenerodriguezrod's GitHub Stats" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=irenerodriguezrod&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="irenerodriguezrod's GitHub Stats" width="300" />
 </div>
 
 <br>
