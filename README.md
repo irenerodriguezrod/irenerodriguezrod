@@ -48,6 +48,15 @@
 
 <div>
   <h2>
+    <img src="https://media.tenor.com/TSbNmbYbRg4AAAAi/pikachu-party.gif" alt="Pikachu con luces" width="50">
+    Proyectos
+  </h2>
+</div>
+
+<br>
+
+<div>
+  <h2>
   <img src="https://tenor.com/es/view/pikachu-gif-19926609" width="1000">  
   Gracias por leer
   </h2>
