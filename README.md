@@ -55,9 +55,9 @@
 
 <br>
 
-<div>
+<div align="right">
   <h2>
-  <img src="https://tenor.com/es/view/pikachu-gif-19926609" width="1000">  
+  <img src="https://media.tenor.com/2r3Ub1sj-M8AAAAi/picachu.gif" width="50">  
   Gracias por leer
   </h2>
 </div>
