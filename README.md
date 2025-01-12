@@ -51,6 +51,9 @@
     <img src="https://media.tenor.com/TSbNmbYbRg4AAAAi/pikachu-party.gif" alt="Pikachu con luces" width="50">
     Proyectos
   </h2>
+  <a href="https://github.com/irenerodriguezrod/DAW116">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=irenerodriguezrod&repo=DAW116&show_owner=true" alt="DAW116">
+  </a>
 </div>
 
 <br>
