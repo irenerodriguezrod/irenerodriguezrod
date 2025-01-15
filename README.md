@@ -30,18 +30,31 @@
 </div>
 
 <br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
-</div>
-<br>
 
 <div>
   <h2>
     <img src="https://media.tenor.com/GQK3vfvrkbEAAAAi/pikachu.gif" alt="GIF Pikachu bailando" width="90">
     Estadísticas
   </h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenerodriguezrod&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="irenerodriguezrod's GitHub Stats" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api?username=irenerodriguezrod&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="irenerodriguezrod's GitHub Stats" width="300" />
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=irenerodriguezrod&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenerodriguezrod&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=irenerodriguezrod" alt="Wakatime Stats">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
