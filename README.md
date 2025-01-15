@@ -74,11 +74,11 @@
 <div align="right">
   <h2>
   <img src="https://media.tenor.com/2r3Ub1sj-M8AAAAi/picachu.gif" width="50">  
-  Gracias por leer
+  Gracias por leer <3
   </h2>
 </div>
 
 <br>
 <div align="right">
-  <p>Última edición:<i> 09/01/2025</i></p>
+  <p>Última edición:<i> 15/01/2025</i></p>
 </div>
