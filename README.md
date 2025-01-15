@@ -80,5 +80,5 @@
 
 <br>
 <div align="right">
-  <p>Última edición:<i> 15/01/2025</i></p>
+  <p>Última edición:<i> 16/01/2025</i></p>
 </div>
