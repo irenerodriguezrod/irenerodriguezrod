@@ -65,13 +65,13 @@
     Proyectos
   </h2>
   <a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=irenerodriguezrod&repo=116LMSGIProyectoLMSGI&show_owner=true" alt="116LMSGIProyectoLMSGI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=irenerodriguezrod&repo=116LMSGIProyectoLMSGI&show_owner=falsee" alt="116LMSGIProyectoLMSGI">
   </a>
   <a href="https://github.com/irenerodriguezrod/116LMSGIProyectoDAW">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=irenerodriguezrod&repo=116LMSGIProyectoDAW&show_owner=true" alt="116LMSGIProyectoDAW">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=irenerodriguezrod&repo=116LMSGIProyectoDAW&show_owner=false" alt="116LMSGIProyectoDAW">
   </a>
   <a href="https://github.com/irenerodriguezrod/116PROGProyectoPROG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=irenerodriguezrod&repo=116LMSGIProyectoPROG&show_owner=true" alt="116PROGProyectoPROG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=irenerodriguezrod&repo=116LMSGIProyectoPROG&show_owner=false" alt="116PROGProyectoPROG">
   </a>
 </div>
 
