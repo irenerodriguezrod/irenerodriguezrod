@@ -67,11 +67,10 @@
   <a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=irenerodriguezrod&repo=116LMSGIProyectoLMSGI&show_owner=true" alt="DAW116">
   </a>
-    <a href="https://github.com/irenerodriguezrod/116LMSGIProyectoDAW">
+  <a href="https://github.com/irenerodriguezrod/116LMSGIProyectoDAW">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=irenerodriguezrod&repo=116LMSGIProyectoDAW&show_owner=true" alt="DAW116">
   </a>
-    </a>
-    <a href="https://github.com/irenerodriguezrod/116PROGProyectoPROG">
+  <a href="https://github.com/irenerodriguezrod/116PROGProyectoPROG">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=irenerodriguezrod&repo=116LMSGIProyectoPROG&show_owner=true" alt="DAW116">
   </a>
 </div>
