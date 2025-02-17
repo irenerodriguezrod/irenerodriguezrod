@@ -53,31 +53,9 @@
           <img src="https://github-readme-stats.vercel.app/api/wakatime?username=irenerodriguezrod" alt="Wakatime Stats">
         </a>
       </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div>
-  <h2>
-  Tecnologías empleadas
-  </h2>
-  <table align="center">
-    <tr>
       <td align="center">
-        <a href="https://netbeans.apache.org/front/main/index.html">
-          <img src="https://img.icons8.com/?size=100&id=4djt356tq8UO&format=png&color=000000" alt="NetBeans IDE" width="50px">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://code.visualstudio.com/">
-          <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="Visual Studio Code IDE" width="50px">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://code.visualstudio.com/">
-          <img src="https://img.icons8.com/?size=100&id=rPAHs7H1vriV&format=png&color=000000" alt="Eclipse Java IDE" width="50px">
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=irenerodriguezrod&theme=dark" alt="GitHub Streak" />
+          <img src="https://streak-stats.demolab.com?user=irenerodriguezrod&theme=dark&hide_border=true" alt="GitHub Streak" />
         </a>
       </td>
     </tr>
@@ -111,5 +89,5 @@
 
 <br>
 <div align="right">
-  <p>Última edición:<i> 10/02/2025</i></p>
+  <p>Última edición:<i> 17/02/2025</i></p>
 </div>
