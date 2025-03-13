@@ -54,7 +54,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=irenerodriguezrod&theme=dark" alt="GitHub Streak" />
+        <a href="https://git.io/streak-stats">
           <img src="https://streak-stats.demolab.com?user=irenerodriguezrod&theme=dark&hide_border=true" alt="GitHub Streak" />
         </a>
       </td>
@@ -70,7 +70,7 @@
     Principales proyectos
   </h2>
   <a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=irenerodriguezrod&repo=116LMSGIProyectoLMSGI&show_owner=falsee" alt="116LMSGIProyectoLMSGI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=irenerodriguezrod&repo=116LMSGIProyectoLMSGI&show_owner=false" alt="116LMSGIProyectoLMSGI">
   </a>
   <a href="https://github.com/irenerodriguezrod/116LMSGIProyectoDAW">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=irenerodriguezrod&repo=116LMSGIProyectoDAW&show_owner=false" alt="116LMSGIProyectoDAW">
@@ -89,5 +89,5 @@
 
 <br>
 <div align="right">
-  <p>Última edición:<i> 17/02/2025</i></p>
+  <p>Última edición:<i> 13/03/2025</i></p>
 </div>
