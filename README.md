@@ -69,11 +69,6 @@
 
 ---
 
-## 🎮 Estado en Discord
-![Discord Presence](https://lanyard.cnrad.dev/api/1349790826380923003)
-
----
-
 <div align="right">
   <h3> ¡Gracias por visitar mi perfil! ❤️ </h3>
 </div>
