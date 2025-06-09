@@ -21,9 +21,16 @@
 - 📍 Resido en León, España. 
 - 📃 Aquí encontrarás los proyectos que he desarrollado a lo largo del curso
 
+---
+
 ## 🛠️ Tecnologías empleadas
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,docker,linux,windows" height="50" alt="Tecnologías" />
+</div>
+
+## 🛠️ Otras tecnologías (menos empleadas)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,figma,kali,notion,postgres,powershell,php,replit" height="50" alt="Tecnologías" />
 </div>
 
 ---
