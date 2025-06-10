@@ -14,66 +14,44 @@
 ---
 
 ## 🚀 Sobre mí
+<img align="right" height="150" src="https://media1.tenor.com/m/GiUbb4qg_vwAAAAd/csharp-cat-programmer.gif" alt="Gato programador" />
+
 - 💁🏻‍♀️ Me llamo **Irene Rodríguez**
 - 🎓 Estudiante de **CFGS en Desarrollo de Aplicaciones Web**
-- 📍 Resido en León, España
+- 📍 Resido en León, España. 
 - 📃 Aquí encontrarás los proyectos que he desarrollado a lo largo del curso
 
 ---
 
 ## 🛠️ Tecnologías empleadas
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.java.com/">
-          <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="50px">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" width="50px">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-          <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="50px">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-          <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width="50px">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.mysql.com/">
-          <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="MySQL" width="50px">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,docker,linux,windows" height="50" alt="Tecnologías" />
+</div>
+
+## 🛠️ Otras tecnologías (menos empleadas)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,figma,kali,notion,postgres,powershell,php,replit" height="50" alt="Tecnologías" />
 </div>
 
 ---
 
 ## 📊 Estadísticas
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=irenerodriguezrod&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenerodriguezrod&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=irenerodriguezrod&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenerodriguezrod&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="Most Used Languages">
 </div>
 
 ---
 
 ## 📈 Estado de uso de diferentes tecnologías
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=irenerodriguezrod)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=irenerodriguezrod&theme=dracula&hide_border=true" alt="Wakatime Stats">
+</div>
 
 ---
 
-<div align="right">
+<div align="center">
   <h3> ¡Gracias por visitar mi perfil! ❤️ </h3>
+  <p>Última edición:<i> 10/06/2025</i></p>
 </div>
 
-<br>
-<div align="right">
-  <p>Última edición:<i> 28/03/2025</i></p>
-</div>
