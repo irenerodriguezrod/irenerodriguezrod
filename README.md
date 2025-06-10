@@ -28,11 +28,6 @@
   <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,docker,linux,windows" height="50" alt="Tecnologías" />
 </div>
 
-## 🛠️ Otras tecnologías (menos empleadas)
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,figma,kali,notion,postgres,powershell,php,replit" height="50" alt="Tecnologías" />
-</div>
-
 ---
 
 ## 📊 Estadísticas
@@ -52,6 +47,6 @@
 
 <div align="center">
   <h3> ¡Gracias por visitar mi perfil! ❤️ </h3>
-  <p>Última edición:<i> 25/05/2025</i></p>
+  <p>Última edición:<i> 10/06/2025</i></p>
 </div>
 
