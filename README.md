@@ -16,10 +16,10 @@
 ## 🚀 Sobre mí
 <img align="right" height="150" src="https://media1.tenor.com/m/GiUbb4qg_vwAAAAd/csharp-cat-programmer.gif" alt="Gato programador" />
 
-- 💁🏻‍♀️ Me llamo **Irene Rodríguez**
-- 🎓 Estudiante de **CFGS en Desarrollo de Aplicaciones Web**
-- 📍 Resido en León, España. 
-- 📃 Aquí encontrarás los proyectos que he desarrollado a lo largo del curso
+- 💁🏻‍♀️ Me llamo **Irene Rodríguez Rodríguez**.
+- 🎓 Estudiante autodidacta de programación y de un **CFGS en Desarrollo de Aplicaciones Web**.
+- 📍 Resido en Ourense, España. 
+- 📃 Aquí encontrarás los proyectos que he desarrollado a lo largo de mis estudios y otros que he realizado para poner en práctica mis conocimientos.
 
 ---
 
@@ -47,6 +47,6 @@
 
 <div align="center">
   <h3> ¡Gracias por visitar mi perfil! ❤️ </h3>
-  <p>Última edición:<i> 10/06/2025</i></p>
+  <p>Última edición:<i> 22/07/2025</i></p>
 </div>
 
