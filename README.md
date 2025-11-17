@@ -18,27 +18,64 @@
 
 - 💁🏻‍♀️ Me llamo **Irene Rodríguez Rodríguez**.
 - 🎓 Estudiante autodidacta de programación y de un **CFGS en Desarrollo de Aplicaciones Web**.
-- 📍 Resido en Ourense, España. 
-- 📃 Aquí encontrarás los proyectos que he desarrollado a lo largo de mis estudios y otros que he realizado para poner en práctica mis conocimientos.
+- 📍 Resido en Ourense, España.
+- 📃 Aquí encontrarás mis proyectos académicos, personales y experimentales.
 
 ---
 
 ## 🛠️ Tecnologías empleadas
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,docker,linux,windows" height="50" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=java,php,js,ts,html,css,sass,tailwind,react,nodejs,express,laravel,symfony,spring,mysql,postgres,mongodb,git,github,docker,figma" height="50" alt="Tecnologías" />
 </div>
 
 ---
 
+## 🖥️ Entornos de desarrollo y sistemas operativos
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=windows" height="45" />  
+  <strong>Windows 10 / Windows 11</strong>
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="45" />  
+  <strong>Ubuntu 22.04 LTS</strong>
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux" height="45" />  
+  <strong>Linux (CLI · Bash · SSH)</strong>
+</div>
+
+---
+
+## 📦 Otras herramientas que uso
+
+- 🧪 **Testing:** PHPUnit · JUnit · Jest  
+- 🔄 **ORMs:** Hibernate · JPA · Eloquent  
+- 📡 **APIs y lenguajes de intercambio:** REST · JSON · XML  
+- 🧩 **Tecnologías XML:** XSLT · XPath · XQuery · XSD · DTD  
+- 🛢️ **Persistencia y acceso a datos:** JDBC · PDO · SQL · PL/SQL  
+- 🖥️ **Entornos de desarrollo:** VS Code · IntelliJ IDEA · NetBeans  
+- 📦 **Gestores y builds:** Maven · npm · Composer  
+- 🌍 **Plataformas & DevTools:** Stack Overflow · Postman · SwaggerHub · Insomnia · cURL  
+- 🔧 **Control de versiones:** Git · GitHub  
+- 📚 **Documentación:** Javadoc · Swagger  
+
+---
+
 ## 📊 Estadísticas
+
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=irenerodriguezrod&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenerodriguezrod&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenerodriguezrod&locale=en&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="150" alt="Most Used Languages">
 </div>
 
 ---
 
 ## 📈 Estado de uso de diferentes tecnologías
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=irenerodriguezrod&theme=dracula&hide_border=true" alt="Wakatime Stats">
 </div>
@@ -49,4 +86,3 @@
   <h3> ¡Gracias por visitar mi perfil! ❤️ </h3>
   <p>Última edición:<i> 22/07/2025</i></p>
 </div>
-
