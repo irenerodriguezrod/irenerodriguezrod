@@ -1,88 +1,100 @@
-<div align="center">
-  <h1>
-    <img src="https://media.tenor.com/i_lnpAd8RzMAAAAi/pikachu-pokemon.gif" alt="GIF animado de bienvenida Pikachu" width="50">
-    ¡Hola, bienvenido a mi perfil!
-  </h1>
-</div>
+<img align="left" height="50" src="https://media.tenor.com/i_lnpAd8RzMAAAAi/pikachu-pokemon.gif"  />
+
+###
+
+<h1 align="left">Hola! Bienvenido a mi perfil</h1>
+
+###
+<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=irenerodriguezrod&color=blue" />
-  <img src="https://img.shields.io/github/followers/irenerodriguezrod?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/irenerodriguezrod?style=social" alt="GitHub Stars" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
 </div>
 
----
+###
+###
+<br>
 
-## 🚀 Sobre mí
-<img align="right" height="150" src="https://media1.tenor.com/m/GiUbb4qg_vwAAAAd/csharp-cat-programmer.gif" alt="Gato programador" />
+<img align="left" height="65" src="https://media.tenor.com/eR6Sd6ovSI0AAAAi/love-pikachu-pipoudark.gif"  />
 
-- 💁🏻‍♀️ Me llamo **Irene Rodríguez Rodríguez**.
-- 🎓 Estudiante autodidacta de programación y de un **CFGS en Desarrollo de Aplicaciones Web**.
-- 📍 Resido en Ourense, España.
-- 📃 Aquí encontrarás mis proyectos académicos, personales y experimentales.
+###
 
----
+<h2 align="left">Sobre mi</h2>
 
-## 🛠️ Tecnologías empleadas
+###
+
+<p align="left">💁🏻‍♀️ Me llamo Irene<br>🎓 Estudiante autodidacta (Web stack)<br>📍 Resido en Ourense, Galicia.<br>📃 Aquí encontrarás proyectos que he ido desarrollando a lo largo de estos años</p>
+
+
+###
+<br>
+
+
+<img align="left" height="65" src="https://media.tenor.com/Kw4Zm6clBVcAAAAi/pika-pikachu.gif"  />
+
+###
+
+<h2 align="left">Estadísticas</h2>
+
+###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,js,ts,html,css,sass,tailwind,react,nodejs,express,laravel,symfony,spring,mysql,postgres,mongodb,git,github,docker,figma" height="50" alt="Tecnologías" />
+  <img src="https://github-readme-stats.vercel.app/api?username=irenerodriguezrod&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=irenerodriguezrod&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
----
+###
 
-## 🖥️ Entornos de desarrollo y sistemas operativos
+<img align="left" height="70" src="https://media.tenor.com/LtEswTq_UN8AAAAi/love-you-this-much-love-you.gif"  />
+
+###
+
+<h2 align="left">Commit streak</h2>
+
+###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=windows" height="45" />  
-  <strong>Windows 10 / Windows 11</strong>
+  <img src="https://streak-stats.demolab.com?user=irenerodriguezrod&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="45" />  
-  <strong>Ubuntu 22.04 LTS</strong>
-</div>
+###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux" height="45" />  
-  <strong>Linux (CLI · Bash · SSH)</strong>
-</div>
+<br clear="both">
 
----
+<p align="right">ULTIMA ACTUALIZACION<br>02 de enero de 2026</p>
 
-## 📦 Otras herramientas que uso
-
-- 🧪 **Testing:** PHPUnit · JUnit · Jest  
-- 🔄 **ORMs:** Hibernate · JPA · Eloquent  
-- 📡 **APIs y lenguajes de intercambio:** REST · JSON · XML  
-- 🧩 **Tecnologías XML:** XSLT · XPath · XQuery · XSD · DTD  
-- 🛢️ **Persistencia y acceso a datos:** JDBC · PDO · SQL · PL/SQL  
-- 🖥️ **Entornos de desarrollo:** VS Code · IntelliJ IDEA · NetBeans  
-- 📦 **Gestores y builds:** Maven · npm · Composer  
-- 🌍 **Plataformas & DevTools:** Stack Overflow · Postman · SwaggerHub · Insomnia · cURL  
-- 🔧 **Control de versiones:** Git · GitHub  
-- 📚 **Documentación:** Javadoc · Swagger  
-
----
-
-## 📊 Estadísticas
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=irenerodriguezrod&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenerodriguezrod&locale=en&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="150" alt="Most Used Languages">
-</div>
-
----
-
-## 📈 Estado de uso de diferentes tecnologías
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=irenerodriguezrod&theme=dracula&hide_border=true" alt="Wakatime Stats">
-</div>
-
----
-
-<div align="center">
-  <h3> ¡Gracias por visitar mi perfil! ❤️ </h3>
-  <p>Última edición:<i> 22/07/2025</i></p>
-</div>
+###
